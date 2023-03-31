@@ -17,6 +17,12 @@ python facedetection_img.py
 ```
 
 ## Hasil
-- Webcam
+- Webcam <br>
+<p align="center">
+  <img src="https://github.com/YogiPinem/Face-Detector-Using-OpenCV/blob/main/Hasil/Webcam.png" width="400">
+</p>
 
-- Gambar
+- Gambar <br>
+<p align="center">
+  <img src="https://github.com/YogiPinem/Face-Detector-Using-OpenCV/blob/main/Hasil/Gambar.png" width="400">
+</p>
