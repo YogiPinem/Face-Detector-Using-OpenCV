@@ -1,9 +1,9 @@
 import cv2
 
-cascPath = "UTS\KSI\haarcascade_frontalface_default.xml"
+cascPath = "haarcascade_frontalface_default.xml"
 wajah = cv2.CascadeClassifier(cascPath)
 
-img = cv2.imread('UTS\KSI\image.jpg')
+img = cv2.imread('image.jpg')
 img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 deteksi_wajah = wajah.detectMultiScale(
